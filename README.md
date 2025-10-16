@@ -1,4 +1,4 @@
-## Oligomer_assembly_SOP_Labnote
+## Oligomer_assembly_SOP_labnote
 
 **oligomer assembly** 관련 실험 기록을 체계적으로 관리하기 위한 디렉토리입니다.
 
@@ -25,12 +25,12 @@
 labnote/
 └── 001_oligo_assembly_test_GFP-mCherry/ # 실험 폴더
     ├── resources/
-    │   ├── oligopool_order/          # 주문한 oligopool 파일
-    │   ├── primers_order/            # 주문한 프라이머 파일
+    │   ├── oligopool_order/          # 주문 oligopool 서열 파일
+    │   ├── primers_order/            # 주문 프라이머 파일
     │   │   └── primer_stock/         # 프라이머 보관 위치 및 서열정보  
     │   └── vector_map/               # 벡터 맵 파일
     │
-    ├── 001_WD010_General_Design_of_Experiment--Design_of_GFP-mCherry_Oligo_Assembly_Experiment.md                   │                                 # 워크플로 파일
+    ├── 001_WD010_General_Design_of_Experiment--Design_of_GFP-mCherry_Oligo_Assembly_Experiment.md   # 워크플로 연구일지 파일
     │                                  
     └── README.md                      # 실험 개요 문서
 ```
